@@ -1,0 +1,8 @@
+{
+    "url": "https://github.com/DoanhPHAM/sublime-text-numix-mixed",
+    "platforms": ["*"],
+    "sublime_text": "*",
+    "version": "1.0.0",
+    "description": "Numix Remixed themes for Sublime Text",
+    "dependencies": []
+}
